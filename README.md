@@ -1,2 +1,3 @@
-# First
-this is my first repository 
+# First code
+this is my first repository.
+Author: Ashifkhan Pathan
